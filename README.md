@@ -1,4 +1,4 @@
-## Theme for Seren & Artic Fuze users
+## Theme for Seren & Artic Fuse users
                   SmartPlay PopUp             
 ![nextup up popup](https://user-images.githubusercontent.com/62456796/182050560-5453ae2a-969e-441b-a21a-0f5fe4400c51.png)
 
@@ -13,7 +13,7 @@
 
 ##### Requirements
 * Seren - 2.x or greater
-* Artic Fuze - Latest Repo version or higher 
+* Artic Fuse - Latest Repo version or higher 
 
 **This theme is a modified version of SerenTheme-SerenMod-Full, use at your own risk with other skins.**
 
@@ -40,7 +40,7 @@ You can also download the `.zip` file directly from the same URL, and install it
 
 
 
-*The creator of this theme is not affiliated with Seren, Artic Fuze, or Kodi.*
+*The creator of this theme is not affiliated with Seren, Artic Fuse, or Kodi.*
 
 *All Credit goes to Drinfernoo and SerpentDrago for helping me make this possible also with the help of Jurialmunkey and his Af Skin.*
 
