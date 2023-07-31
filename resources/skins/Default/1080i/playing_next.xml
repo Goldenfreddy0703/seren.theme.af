@@ -43,8 +43,8 @@
 
                 <control type="group">
                     <left>44</left>
-                    <top>40</top>
-                    <height>40</height>
+                    <top>30</top>
+                    <height>50</height>
                     <control type="group">
                         <centertop>50%</centertop>
                         <height>80</height>
@@ -53,11 +53,11 @@
                             <texture colordiffuse="panel_fg_90">flags/quality/info.png</texture>
                             <centertop>52%</centertop>
                             <width>37</width>
-                            <height>24</height>
                         </control>
                         <control type="grouplist">
                             <left>47</left>
                             <orientation>horizontal</orientation>
+                            <centertop>50%</centertop>
                             <height>80</height>
                             <itemgap>10</itemgap>
                             <include content="Info_Line_Label">
