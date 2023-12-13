@@ -1,6 +1,7 @@
 ## Theme for Seren & Artic Fuse users
                   SmartPlay PopUp             
-![nextup up popup](https://user-images.githubusercontent.com/62456796/182050560-5453ae2a-969e-441b-a21a-0f5fe4400c51.png)
+![nextup up popup](https://github.com/Goldenfreddy0703/seren.theme.af/assets/62456796/18f16391-aeb0-42d1-8b09-4096b59651cb
+)
 
 |                   Scraping                   |                   Source Select                   |
 |:--------------------------------------------:|:-------------------------------------------------:|
